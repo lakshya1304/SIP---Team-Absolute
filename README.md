@@ -15,7 +15,7 @@
 
 ---
 
-### ✨ Team Motto
+### ✨ Team Absolute
 
 > **"Great software is built through teamwork, collaboration, and continuous learning."**
 
