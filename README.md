@@ -90,11 +90,11 @@ Week-1/
 
 | Team Member | Responsibility |
 |-------------|---------------|
-| 👩 **Supriya** | Assignment 1 (Q1, Q2), Assignment 2 (Q1, Q2) |
-| 👨 **Chunar** | Assignment 1 (Q3, Q4), Assignment 2 (Q3) |
-| 👨 **Abhishek** | Assignment 1 (Q5), Assignment 2 (Q4, Q5) |
 | 👨 **Lakshya (Group Leader)** | Code Explanations, Flowcharts, Team Supervision, GitHub Management, Guidance & Quality Review |
+| 👨 **Abhishek** | Assignment 1 (Q5), Assignment 2 (Q4, Q5) |
+| 👨 **Chunar** | Assignment 1 (Q3, Q4), Assignment 2 (Q3) |
 | 👩 **Roshni** | Weekly Report, Documentation, Final PPT Support |
+| 👩 **Supriya** | Assignment 1 (Q1, Q2), Assignment 2 (Q1, Q2) |
 
 ---
 
