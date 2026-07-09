@@ -145,23 +145,7 @@ Responsibilities included:
 - ✅ Output Screenshots
 - ✅ Flowcharts
 - ✅ Explanations
-
----
-
-# 🔄 Workflow Followed
-
-```mermaid
-graph LR
-
-A[Task Distribution] --> B[Coding]
-B --> C[Testing]
-C --> D[Screenshot]
-D --> E[Explanation]
-E --> F[Flowchart]
-F --> G[GitHub Upload]
-G --> H[Weekly Report]
-```
-
+- 
 ---
 
 # 🌟 Project Workflow
