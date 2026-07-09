@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Week-01-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Language-C-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Team-5_Members-purple?style=for-the-badge">
-<img src="https://img.shields.io/github/license/lakshya1304/SIP---Team-Absolute?style=for-the-badge">
+<img src="https://img.shields.io/github/license/lakshya1304/SIP---Team-Absolute.svg?style=for-the-badge" alt="MIT License">
 </p>
 
 ---
