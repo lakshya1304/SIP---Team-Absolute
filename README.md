@@ -246,6 +246,6 @@ The repository was maintained using version control, ensuring proper contributio
 
 ### ⭐ If you found this repository helpful, don't forget to Star it!
 
-**Made with ❤️ by Team SIP 2026**
+**Made with ❤️ by Team Absolute**
 
 </div>
