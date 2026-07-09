@@ -145,7 +145,6 @@ Responsibilities included:
 - ✅ Output Screenshots
 - ✅ Flowcharts
 - ✅ Explanations
-- 
 ---
 
 # 🌟 Project Workflow
