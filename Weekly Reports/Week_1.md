@@ -116,11 +116,10 @@ Week-1/
 │   ├── Q3.c
 │   ├── Q4.c
 │   ├── Q5.c
-│   ├── Flowcharts/
 │   └── Screenshots/
 │
-└── Weekly Report/
-    └── Week1_Report.md
+└── Weekly Reports/
+    └── Week_1.md
 
 
 ---

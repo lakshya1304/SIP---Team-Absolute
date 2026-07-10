@@ -51,11 +51,11 @@ Week-1/
 │   ├── Q3_LeapYear.c
 │   ├── Q4_Calculator.c
 │   ├── Q5_GradeSystem.c
-│   ├── Flowcharts/
 │   ├── Screenshots/
 │   └── README.md
 │
-└── Weekly_Report/
+└── Weekly_Reports/
+    └── Week_1.md
 ```
 
 ---
