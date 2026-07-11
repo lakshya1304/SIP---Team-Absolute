@@ -100,47 +100,26 @@ Besides coding, the team practiced GitHub collaboration, documentation, explanat
 text
 Week-1/
 
-│
-
-├── Assignment-1/
-
-│   ├── README.md
-
-│   ├── Q1.c
-
-│   ├── Q2.c
-
-│   ├── Q3.c
-
-│   ├── Q4.c
-
-│   ├── Q5.c
-
-    └── Screenshots/
-
-│
-
-├── Assignment-2/
-
-│   ├── README.md
-
-│   ├── Q1.c
-
-│   ├── Q2.c
-
-│   ├── Q3.c
-
-│   ├── Q4.c
-
-│   ├── Q5.c
-
-│   └── Screenshots/
-
-│
-
-└── Weekly Reports/
-
-    └── Week_1.md
+    |── Assignment-1/
+        ├── README.md
+        ├── Q1.c
+        ├── Q2.c
+        ├── Q3.c
+        ├── Q4.c
+        ├── Q5.c
+        └── Screenshots/
+    │
+    ├── Assignment-2/
+        ├── README.md
+        ├── Q1.c
+        ├── Q2.c
+        ├── Q3.c
+        ├── Q4.c
+        ├── Q5.c
+        └── Screenshots/
+    │
+    └── Weekly Reports/
+        └── Week_1.md
 
 
 ---
