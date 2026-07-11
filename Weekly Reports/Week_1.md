@@ -97,7 +97,6 @@ Besides coding, the team practiced GitHub collaboration, documentation, explanat
 
 # 📂 Repository Structure
 
-text
 Week-1/
 
     |── Assignment-1/
