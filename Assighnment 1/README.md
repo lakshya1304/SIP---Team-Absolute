@@ -31,13 +31,14 @@ Introduction to Programming
 
 📂 Folder Structure
 
-📁 Assignment-1
- ├── Q1_HelloWorld.c
- ├── Q2_Sum.c
- ├── Q3_Area.c
- ├── Q4_Temperature.c
- ├── Q5_Swap.c
- └── Screenshots
+📁 Assignment-1\
+
+    ├── Q1_HelloWorld.c
+    ├── Q2_Sum.c
+    ├── Q3_Area.c
+    ├── Q4_Temperature.c
+    ├── Q5_Swap.c
+    └── Screenshots
 
 ──────────────────────────────
 
