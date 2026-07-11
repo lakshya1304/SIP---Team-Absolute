@@ -98,7 +98,7 @@ Assignment-2
 
 📸 Output Gallery
 
-(Add screenshots)
+<img src="Screenshots/2.1.png" width="300"/> <img src="Screenshots/2.2.png" width="300"/> <img src="Screenshots/2.3.png" width="300"/> <img src="Screenshots/2.4.png" width="300"/> <img src="Screenshots/2.5.png" width="300"/>
 
 ══════════════════════════════
 

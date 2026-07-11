@@ -64,8 +64,7 @@ VS Code
 
 📸 Output Gallery
 
-(Add screenshots here)
-
+<img src="Screenshots/1.1.png" width="300"/> <img src="Screenshots/1.2.png" width="300"/> <img src="Screenshots/1.3.png" width="300"/> <img src="Screenshots/1.4.png" width="300"/> <img src="Screenshots/1.5.png" width="300"/>
 ──────────────────────────────
 
 🎓 Learning Outcomes
