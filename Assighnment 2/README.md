@@ -80,18 +80,14 @@ Documentation    ██████████
 
 📂 Folder Structure
 
-Assignment-2
-├── Q1.c
+Assignment-2/
 
-├── Q2.c
-
-├── Q3.c
-
-├── Q4.c
-
-├── Q5.c
-
-└── Screenshots
+    ├── 2.1.c
+    ├── 2.2.c
+    ├── 2.3.c
+    ├── 2.4.c
+    ├── 2.5.c
+    └── Screenshots
 
 ══════════════════════════════
 
