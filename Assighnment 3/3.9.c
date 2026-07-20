@@ -9,7 +9,7 @@ int main()
     {
 
         r=n%10;
-        Sum=Sum+r;
+        sum=sum+r;
         n=n/10;
     }
     printf("Sum of digits: %d",sum);
