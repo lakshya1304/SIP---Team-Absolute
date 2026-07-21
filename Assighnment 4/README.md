@@ -55,6 +55,12 @@ Assignment-4
 
 ---
 
+📸 Output Gallery
+
+<img src="Screenshots/4.1.png" width="300"/> <img src="Screenshots/4.2.png" width="300"/> <img src="Screenshots/4.3.png" width="300"/> <img src="Screenshots/4.4.png" width="300"/> <img src="Screenshots/4.5.png" width="300"/><img src="Screenshots/4.6.png" width="300"/><img src="Screenshots/4.7.png" width="300"/><img src="Screenshots/4.8.png" width="300"/><img src="Screenshots/4.9.png" width="300"/><img src="Screenshots/4.10.png" width="300"/>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
